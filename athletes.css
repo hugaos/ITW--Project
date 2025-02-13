@@ -1,0 +1,85 @@
+.container1{
+    font-family:"Open Sans", sans-serif;
+    margin: 80px 0 0 0;
+}
+.container2{
+    margin: 20px 120px 0 120px;
+    border-bottom: 10px;
+}
+.container3{
+    margin: 10px 80px  0 80px;
+    display: flex; 
+    justify-content: space-between;
+}
+.container3 p{
+    font-weight: lighter;
+}
+.pagination{
+    justify-content: end;
+}
+#container{
+    margin: 10px 70px  0 70px;
+    padding: 0px;
+}
+.card{
+    height: 500px;
+    padding-top: 10px;
+}
+
+#img0{
+    height: 60%;
+    object-fit: cover; 
+    object-position: top;
+
+}
+#img {
+    height: 400px;
+
+}
+#border{
+    border-right-width: 2px;
+    border-right-style: inset;
+    border-right-color: lightgray;
+}
+#temp{
+    font-weight: bold;
+}
+#temp span{
+    font-weight:normal;
+}
+#temp{
+    border-bottom: 1px; 
+    border-bottom-style: inset;
+    border-bottom-color:lightgray;
+}
+#games{
+    margin-top: 20px;
+}
+#titulo{
+    font-weight: bold;
+    font-size: larger;
+}
+
+#mod{
+    font-weight:bolder ;
+    margin: left 20px;
+    text-align:center;
+    padding: 30px 0px 10px 0px;
+}
+#img1{
+    max-width: 100px;
+    max-height: 100px;
+}
+.ui-autocomplete {
+    width: 70%;
+    background-color:white;
+
+} 
+#medal{
+    margin-left:20px;
+}
+
+  
+  
+  
+  

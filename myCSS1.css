@@ -1,0 +1,125 @@
+﻿body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 60px 0 60px 0;
+}
+
+.row {
+    display: flex
+}
+/* button default
+---------------------------- */
+.btn-default {
+    color: #333;
+    background-color: #f8f9fa;
+    border-color: #ccc;
+}
+
+    .btn-default:focus {
+        color: #333;
+        background-color: #e6e6e6;
+        border-color: #8c8c8c;
+    }
+
+    .btn-default:active,
+    .btn-default:hover {
+        color: #333;
+        background-color: #e6e6e6;
+        border-color: #adadad;
+    }
+
+/* button-xs
+---------------------------- */
+.btn-group-xs > .btn, .btn-xs {
+    padding: 1px 5px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+}
+
+li.page-item a {
+    font-size: 0.85rem;
+}
+
+.text-danger {
+    color: red
+}
+
+.form-control {
+    width: 600px;
+}
+
+#sexo {
+    width: 101px
+}
+
+.form-group {
+    padding-top:15px;
+
+    padding-bottom:5px
+}
+
+.card-img-top{
+    height: 300px;
+
+}
+
+.card-img{
+    width:304px;
+    height:152px;
+    margin-top:40px
+    
+}
+
+.red {
+    color:red
+}
+
+#InfoBox {
+    margin-left: 1000x;
+    width: 600px
+}
+
+#rowCountries {
+    margin-bottom:1022px
+}
+
+#buttonCountries {
+    width:160px;
+    text-align: center;
+}
+
+#FlagPhoto {
+    width:2300px;
+    height:400px;
+    opacity:0.35
+}
+
+#countryName {
+    font-family: "Copperplate Gothic Light";
+    position: absolute;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    height:50%;
+    align-items: center;
+    width:67%
+}
+
+#textDetails {
+    margin-top:40px;
+
+}
+#search-form{
+    margin:20px 40px 20px 40px;
+}
+#countryInd{
+    border-bottom: 1px; 
+    border-bottom-style: inset;
+    border-bottom-color:lightgray;
+}
+#inf{
+    font-weight: bolder;
+
+}
+
+

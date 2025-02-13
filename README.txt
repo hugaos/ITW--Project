@@ -1,0 +1,1 @@
+Foi adicionado um mapa com todas ediçoes dos jogos olimpicos no index.html, cada marker com acesso ao games.html; foi modificada também a navbar.
